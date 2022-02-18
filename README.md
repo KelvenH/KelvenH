@@ -1,6 +1,6 @@
 <h1 align="center"> Hi, I'm Kelven Hughes and welcome to my GitHub zone!</h1>
 
-<h3 align="center"> I've recently submitted my final project for Code Institute's diploma as Full Stack Software Developer and waiting my results! :crossed_fingers: and excited to be looking to forge a new career in Tech!</h3>
+<h4 align="center"> I've recently submitted my final project for Code Institute's diploma as Full Stack Software Developer and waiting my results :crossed_fingers: and excited to be looking to forge a new career in Tech!</h4>
 
 ---
 ## 📌   Pinned Examples
@@ -19,6 +19,16 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=KelvenH&repo=E-Prospector.v2&theme=jolly"/>
   </a>   
 </p>
+
+<p align="left" width="100%">
+  <a href="https://github.com/KelvenH/CarbSum">
+    <img src="https://github.com/KelvenH/CarbSum/blob/main/README%20Files/mobile-mockup.png" width="25%"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=KelvenH&repo=CarbSum&theme=jolly"/>
+  </a>
+</p>
+
+
+
 
 ---
 ## :toolbox:   Tech Stack (Pyramid)
