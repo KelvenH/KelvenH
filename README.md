@@ -1,9 +1,27 @@
 <h1 align="center"> Hi, I'm Kelven Hughes and welcome to my GitHub zone!</h1>
 
-<h3 align="center"> I've recently submitted my final project for Code Institute's diploma as Full Stack Software Developer and waiting my results! :crossed_fingers:</h3>
+<h3 align="center"> I've recently submitted my final project for Code Institute's diploma as Full Stack Software Developer and waiting my results! :crossed_fingers: and excited to be looking to forge a new career in Tech!</h3>
 
 ---
-## :toolbox:   Tech Stack
+## 📌   Pinned Examples
+
+
+<p align="left" width="100%">
+  <a href="https://github.com/KelvenH/Guitar-Vault">
+    <img src="https://github.com/KelvenH/Guitar-Vault/blob/main/README_FILES/GV-Logo.png"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=KelvenH&repo=Guitar-Vault&theme=jolly"/>
+  </a>
+</p>
+
+<p align="left" width="100%">
+   <a href="https://github.com/KelvenH/E-Prospector.v2">
+    <img src="https://github.com/KelvenH/E-Prospector.v2/blob/master/README-Files/Hero-v3-1920x1080.png" width="25%"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=KelvenH&repo=E-Prospector.v2&theme=jolly"/>
+  </a>   
+</p>
+
+---
+## :toolbox:   Tech Stack (Pyramid)
 
 #### Hosting
 <p align="center">
@@ -121,7 +139,7 @@
 ## 📈   GitHub Stats
 
 <a href="https://github.com/KelvenH/KelvenH">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KelvenH&langs_count=4&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KelvenH&langs_count=4&theme=radical"/>
 </a>
 
 <a href="https://github.com/KelvenH/KelvenH">
@@ -131,21 +149,6 @@
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=KelvenH)  
 
 ![Profile views](https://gpvc.arturio.dev/KelvenH)  
-
----
-## 📌   Pinned Repos
-
-
-<a href="https://github.com/KelvenH/Guitar-Vault" width="300px">
-  <img src="https://github.com/KelvenH/Guitar-Vault/blob/main/README_FILES/Guitar-Vault_banner.png" width="500px" align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=KelvenH&repo=Guitar-Vault&theme=jolly" />
-</a>
-
-
-<a href="https://github.com/KelvenH/E-Prospector.v2" width="300px">
-  <img src="https://github.com/KelvenH/E-Prospector.v2/blob/master/README-Files/Hero-v3-1920x1080.png" width="500px" align="center"/>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=KelvenH&repo=E-Prospector.v2&theme=jolly" />
-</a>   
 
 ---
 ## 📮  Contact Me
