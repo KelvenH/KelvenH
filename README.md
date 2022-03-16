@@ -1,33 +1,17 @@
 <h1 align="center"> Hi, I'm Kelven Hughes and welcome to my GitHub zone!</h1>
 
-<h4 align="center"> I've recently submitted my final project for Code Institute's diploma as Full Stack Software Developer and waiting my results :crossed_fingers: and excited to be looking to forge a new career in Tech!</h4>
+<h4 align="center"> I've recently achieved a diploma in Full Stack Software Development and excited to be looking to forge a new career in Tech!</h4>
+
+<h4 align="center"> Feel free to check out examples of my projects below and connect with me via LinkedIn</h4>
 
 ---
 ## 📌   Pinned Examples
 
-
-<p align="left" width="100%">
-  <a href="https://github.com/KelvenH/Guitar-Vault">
-    <img src="https://github.com/KelvenH/Guitar-Vault/blob/main/README_FILES/GV-Logo.png"/>
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=KelvenH&repo=Guitar-Vault&theme=jolly"/>
-  </a>
-</p>
-
-<p align="left" width="100%">
-   <a href="https://github.com/KelvenH/E-Prospector.v2">
-    <img src="https://github.com/KelvenH/E-Prospector.v2/blob/master/README-Files/Hero-v3-1920x1080.png" width="25%"/>
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=KelvenH&repo=E-Prospector.v2&theme=jolly"/>
-  </a>   
-</p>
-
-<p align="left" width="100%">
-  <a href="https://github.com/KelvenH/CarbSum">
-    <img src="https://github.com/KelvenH/CarbSum/blob/main/README%20Files/mobile-mockup.png" width="25%"/>
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=KelvenH&repo=CarbSum&theme=jolly"/>
-  </a>
-</p>
-
-
+|||
+|---|---|
+|<p align="center"><a href="https://github.com/KelvenH/Guitar-Vault"><img src="https://github.com/KelvenH/Guitar-Vault/blob/main/README_FILES/GV-Logo.png" width="100px"/></a></p>|<a href="https://github.com/KelvenH/Guitar-Vault"><img src="https://github-readme-stats.vercel.app/api/pin/?username=KelvenH&repo=Guitar-Vault&theme=jolly"/></a>|
+|<a href="https://github.com/KelvenH/E-Prospector.v2"><img src="https://github.com/KelvenH/E-Prospector.v2/blob/master/README-Files/Hero-v3-1920x1080.png" width="400px"/></a>|<a href="https://github.com/KelvenH/E-Prospector.v2"><img src="https://github-readme-stats.vercel.app/api/pin/?username=KelvenH&repo=E-Prospector.v2&theme=jolly"/></a>|
+|<a href="https://github.com/KelvenH/CarbSum"><img src="https://github.com/KelvenH/CarbSum/blob/main/README%20Files/mobile-mockup.png" width="400px"/></a>|<a href="https://github.com/KelvenH/CarbSum"><img src="https://github-readme-stats.vercel.app/api/pin/?username=KelvenH&repo=CarbSum&theme=jolly"/></a>|
 
 
 ---
@@ -65,7 +49,6 @@
     <img src="https://img.shields.io/badge/SQLite%20-%23003B57.svg?&style=for-the-badge&logo=SQLite&logoColor=FFFFFF" alt="sqlite"/>
   </a>
 </p>
-
 
 #### Version Control | Coding
 <p align="center">
